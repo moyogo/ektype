@@ -4,3 +4,6 @@
 [submodule "modak"]
 	path = modak
 	url = https://github.com/girish-dalvi/Modak
+[submodule "baloo"]
+	path = baloo
+	url = https://github.com/girish-dalvi/Baloo
